@@ -25,7 +25,7 @@ This is a simple command-line Sudoku game written in Rust. You can either play t
     git clone https://github.com/Telmo-Sousa/sudoku.git
     cd sudoku
     ```
-3. Run the project:
+3. Run the game:
     ```bash
     cargo run --release
     ```
